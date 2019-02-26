@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EclipsePlugin_demo
+Bundle-SymbolicName: EclipsePlugin_demo;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: eclipseplugin_demo.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: EclipsePlugin_demo
+Bundle-ActivationPolicy: lazy
